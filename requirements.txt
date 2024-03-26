@@ -5,4 +5,7 @@ catboost
 xgboost
 sckit-learn
 dill
+flask
+mlflow
+docker
 #-e .
